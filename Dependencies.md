@@ -1,3 +1,3 @@
-| Ressource |  Source                                     |
-|-----------|---------------------------------------------|
-| System    | https://dotnet.microsoft.com/en-us/download |
+| Ressource |  Source                                              |
+|-----------|------------------------------------------------------|
+| System    | https://www.nuget.org/packages/runtime.native.System |
